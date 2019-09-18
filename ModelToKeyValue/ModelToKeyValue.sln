@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelToKeyValue", "ModelToKeyValue\ModelToKeyValue.csproj", "{ABDF3F91-F101-4188-A404-BC9E27D7982E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDF3F91-F101-4188-A404-BC9E27D7982E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDF3F91-F101-4188-A404-BC9E27D7982E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDF3F91-F101-4188-A404-BC9E27D7982E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDF3F91-F101-4188-A404-BC9E27D7982E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9CE7678-96FE-4BFF-80D5-EF304AA6E890}
+	EndGlobalSection
+EndGlobal
